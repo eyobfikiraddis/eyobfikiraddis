@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ML<br>
 - 👯 I’m looking to collaborate on any type of app or web development projects<br>
 - 📫 How to reach me: Telegram username (@My_TG_Account)<br>
-- ⚡️ Fun fact about me: I treat errors like puzzles, not problems<br>
+- ⚡️ Fun fact about me: I treat errors like puzzles to do, not problems<br>
 
 
 ## 🌐 Socials:
