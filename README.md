@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# 💫 About Me
 - 🔭 I’m currently working on a lot of different projects<br>
 - 🌱 I’m currently learning ML<br>
 - 👯 I’m looking to collaborate on any type of app or web development projects<br>
